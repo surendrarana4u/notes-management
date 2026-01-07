@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Notes App — Minimal UI</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <header class="topbar">
+    <h1>Notes Board</h1>
+  </header>
+
+  <main class="wrapper">
+
+    <div id="message" class="msg"></div>
+
+    <section class="note-box">
+      <h2>Create Note</h2>
+
+      <textarea id="noteInput"
+        placeholder="Write something meaningful..."></textarea>
+
+      <button id="addBtn">Add Note</button>
+    </section>
+
+    <h3 class="section-title">Saved Notes</h3>
+
+    <section id="notesContainer" class="notes-grid"></section>
+
+  </main>
+
+  <footer class="footer">Made with ♥️ by SRK</footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
