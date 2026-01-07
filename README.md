@@ -1,3 +1,5 @@
+**#Project- A Notes Management Web Application**
+
 A simple and responsive **Notes Management Web Application** that allows users to create, edit, and delete notes efficiently.  
 Designed with a clean UI for quick note-taking and deployed live using Vercel.
 
@@ -31,7 +33,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/surendrarana4u/REPOSITORY.git
 Navigate to the project directory
 
 bash
@@ -49,19 +51,8 @@ Copy code
 npm run dev
 Open your browser and visit
 
-arduino
-Copy code
-http://localhost:3000
-🧑‍💻 Usage
-Add notes using the input field
+**🚀 Deployment**
 
-Edit notes when needed
-
-Delete notes that are no longer required
-
-Updates happen instantly for a smooth experience
-
-🚀 Deployment
 This project is deployed using Vercel.
 
 Deployment steps:
@@ -76,7 +67,8 @@ Use default build settings
 
 Deploy and get a live URL
 
-📁 Project Structure
+**📁 Project Structure**
+
 pgsql
 Copy code
 ├── public/
@@ -87,7 +79,8 @@ Copy code
 ├── package.json
 ├── README.md
 └── .gitignore
-🤝 Contributing
+
+**🤝 Contributing**
 Contributions are welcome:
 
 Fork the repository
@@ -104,11 +97,6 @@ Open a Pull Request
 This project is open-source and free to use for learning and development.
 
 ⭐ If you find this project helpful, consider giving it a star on GitHub!
-
-markdown
-Copy code
-
-If you want this **shorter**, **more professional**, or **resume-optimized**, just tell me which direction to tilt it.
 
 
 
